@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/São%20Paulo-Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=GustavoACarriel&label=Profile+Views&color=6C63FF&style=flat-square" alt="profile views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=GustavoACarriel&label=Profile+Views&color=6C63FF&style=flat-square" alt="profile views"/> -->
 
 </div>
 

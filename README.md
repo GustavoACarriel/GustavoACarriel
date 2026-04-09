@@ -150,13 +150,13 @@ class GustavoCarriel:
 
 --- -->
 
-## 📈 Contribution Graph
+<!-- ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoACarriel&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
----
+--- -->
 
 <div align="center">
 

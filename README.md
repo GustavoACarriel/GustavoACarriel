@@ -103,8 +103,16 @@ class GustavoCarriel:
   <tr>
     <td width="60px" align="center">🏢</td>
     <td>
+      <strong>Adecco @ SHEIN</strong> — IT Team Lead & Systems Developer<br/>
+      <sub>📅 Abr 2026 – Present</sub><br/>
+      Liderou e organizou um time de suporte de TI, gerenciando tarefas e prioridades para garantir a eficiência operacional. Desenvolveu sistemas internos para automação de processos como controle de estoque, permissões de acesso e gestão de equipamentos por turno. Responsável pelo deploy e administração de servidores On-Premise, garantindo disponibilidade e estabilidade da infraestrutura local. Atuou como elo entre as equipes técnicas e a operação, impulsionando melhorias de processos através de soluções de software personalizadas.
+    </td>
+  </tr>
+  <tr>
+    <td width="60px" align="center">🏢</td>
+    <td>
       <strong>Adecco @ SHEIN</strong> — IT Technical Support Analyst<br/>
-      <sub>📅 Jun 2024 – Present</sub><br/>
+      <sub>📅 Jun 2024 – Mar 2026</sub><br/>
       Desenvolvimento de sistemas internos para automação de processos (controle de estoque, permissões de acesso, gestão de equipamentos por turno). Deploy e gerenciamento de servidores On-Premise.
     </td>
   </tr>
